@@ -6,7 +6,7 @@ The project has been recently updated to use Maven as the build system, and to t
 
 The code was actively developed from 1998-2001, and has been lightly patched since then.  Its a goal of mine to update the code base to modern Java standards, and even reimplment part of the code in Scala.
   
-More information on my research and the Bunch tool and my research into software clustering can be found on my [webpage](https://www.cs.drexel.edu/~bmitchell/new/#/research)
+More information on the Bunch tool and my research into software clustering can be found on my [webpage](https://www.cs.drexel.edu/~bmitchell/new/#/research)
 
 I'd welcome pull requests if you would like to contribute towards modernizing the codebase.
 
