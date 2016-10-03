@@ -1,0 +1,15 @@
+ping ctype 1
+ping stdlib 12
+ping netdb 6
+ping unistd 9
+unistd ping 1
+ping errno 1
+ping signal 3
+ping select 1
+ping getopt 17
+ping time 2
+ping socket 7
+ping inet 7
+ping in 4
+ping stdio 31
+ping string 6
