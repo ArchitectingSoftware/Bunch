@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>edu.drexel</groupId>
-  <artifactId>Bunch</artifactId>
+  <artifactId>bunch</artifactId>
   <packaging>jar</packaging>
 
   <name>Bunch4</name>
